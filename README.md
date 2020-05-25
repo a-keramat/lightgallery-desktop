@@ -108,33 +108,17 @@ It will start the packaging process for the operating system you are running thi
 You can create Windows installer only when running on Windows, the same is true for Linux and OSX. So to generate all three installers you need all three operating systems.
 
 
-Other Projects
+Future Activities
 ----
 
-##### [LightGallery for web](https://github.com/sachinchoolur/lightGallery)
-> A customizable, modular, responsive, lightbox gallery plugin.
+##### [Aplly icon to parent folder](#)
+> Crop current image with 1:1 Ratio to Apply as parent directory's icon using FolderIco Shell script
 
-##### [jQuery lightslider](https://github.com/sachinchoolur/lightslider)
-> lightSlider is a lightweight responsive Content slider with carousel thumbnails navigation.
+##### [Distribiuted Galleries](#)
+> Associate image files from different direcotories to each other to make a whole gallery document which are always displayed together
 
-##### [Angular flash](https://github.com/sachinchoolur/angular-flash)
-> A simple lightweight flash message module for angularjs
 
-##### [ngclipboard](https://github.com/sachinchoolur/ngclipboard)
-> An angularjs directive to copy text to clipboard without using flash
 
-##### [Angular trix](http://sachinchoolur.github.io/angular-trix/)
-> A rich WYSIWYG text editor directive for angularjs.
-
-##### [ladda-angular](https://github.com/sachinchoolur/ladda-angular)
-> Ladda button directive for angularjs
-
-##### [Teamwave](http://www.teamwave.com/?kid=676V2)
-> Integrated Suite of Business Applications.. (Not an open source project but free for the first 1,000 Companies!)
-
-Follow me on twitter [@sachinchoolur](https://twitter.com/sachinchoolur) for the latest news, updates about this project.
-
-Special thanks to [Jakub Szwacz](https://github.com/szwacz) for electron boilerplate
 
 ### License
 
